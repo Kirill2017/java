@@ -9,10 +9,7 @@ package javaapplication1;
  *
  * @author Кирилл
  */
-public class Shape {
-    public double area()
-    {
-        return 0;
-    }
-    
+public abstract class Shape {
+    public abstract double area();
+      
 }
